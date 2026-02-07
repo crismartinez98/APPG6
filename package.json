@@ -1,4 +1,15 @@
 {
+  "name": "securefeedback",
+  "version": "1.0.0",
+  "description": "Formulario SecureFeedback con Azure SQL y validaciones",
+  "main": "app.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
   "dependencies": {
     "dotenv": "^17.2.4",
     "express": "^5.2.1",
@@ -7,3 +18,4 @@
     "xss": "^1.0.15"
   }
 }
+
