@@ -1,7 +1,7 @@
 {
   "name": "securefeedback",
   "version": "1.0.0",
-  "description": "Formulario SecureFeedback con Azure SQL y validaciones",
+  "description": "Formulario SecureFeedback con Azure SQL",
   "main": "app.js",
   "type": "commonjs",
   "scripts": {
@@ -18,4 +18,5 @@
     "xss": "^1.0.15"
   }
 }
+
 
