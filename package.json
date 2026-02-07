@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "dotenv": "^17.2.4",
+    "express": "^5.2.1",
+    "mssql": "^12.2.0",
+    "validator": "^13.15.26",
+    "xss": "^1.0.15"
+  }
+}
